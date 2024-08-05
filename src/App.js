@@ -74,7 +74,7 @@ function App() {
                 </div>
 
                 <div class="text-panel">
-                  <h1>H2: Subheading</h1>
+                  <h2>H2: Subheading</h2>
                   <ul>
                     <li>Font-weight: 500 bold</li>
                     <li>Font-size: 18px</li>
@@ -83,7 +83,7 @@ function App() {
                 </div>
 
                 <div class="text-panel">
-                  <h1>P: Paragragh text</h1>
+                  <p>P: Paragragh text</p>
                   <ul>
                     <li>Font-weight: 400 bold</li>
                     <li>Font-size: 14px</li>
